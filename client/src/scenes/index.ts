@@ -1,4 +1,3 @@
-import Dashboard from "./dashboard";
-import NavBar from "./navbar";
+import Dashboard from "./Dashboard";
 
-export { Dashboard, NavBar };
+export { Dashboard };

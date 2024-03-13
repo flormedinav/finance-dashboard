@@ -4,7 +4,8 @@ import { Box, CssBaseline, ThemeProvider } from "@mui/material";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import { themeSettings } from "./theme";
-import { Dashboard, NavBar } from "@/scenes";
+import { Dashboard } from "@/scenes";
+import { NavBar } from "@/components";
 import { GLOBAL_CONSTANTS } from "@/constants/global";
 
 function App() {
